@@ -1,0 +1,42 @@
+name: untitled1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.30
+  audio_session: ^0.1.6
+  audioplayers: ^0.20.1
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/one.jpeg
+    - assets/perfect.jpg
+    - assets/midnight.jpeg
+    - assets/strong.jpeg
+    - assets/classic.jpg
+    - assets/zayn.jpg
+    - assets/chill.jpg
+    - assets/cold.jpg
+    - assets/1970.jpg
+    - assets/blackpink.jpg
+    - assets/guyon.jpg
+    - assets/ed.jpg
+    - assets/music/DUMES.mp3
+    - assets/music/EdSheeran.mp3
+    - assets/music/Perfect.mp3
+    - assets/music/RightNow.mp3
+    - assets/music/Strong.mp3
